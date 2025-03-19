@@ -30,7 +30,9 @@ Gotham Legends is a web-based project that brings Gotham's legendary characters 
 
 ## Demo Video
 
-Uploading Untitled video - Made with Clipchamp.mp4…
+https://github.com/user-attachments/assets/dcc3aec0-9283-4634-8ff7-cd8c723005db
+
+
 
 
 ## Important Note
